@@ -346,7 +346,7 @@ h1 span {
   left: 0;
   width: 41px;
   height: 36px;
-  content: url("marker.svg");
+  content: url("/marker.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
