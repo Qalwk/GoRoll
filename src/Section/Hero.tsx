@@ -12,7 +12,7 @@ const Hero = () => {
         <div className="promo__text">
           <span>{t("promoSubtitle1")}</span> <span>{t("promoSubtitle2")}</span>
         </div>
-        <a href="#" className="promo__btn">
+        <a href="https://panel.gorollpartners.com/#/registration" className="promo__btn">
           {t("becomePartner")}
         </a>
       </div>

@@ -83,10 +83,10 @@ const Header = () => {
         )}
 
         <div className="menu">
-          <a href="#" className="user">
+          <a href="https://panel.gorollpartners.com/#/login" className="user">
             <img src="user.svg" alt="user" />
           </a>
-          <a href="#" className="menu__btn">
+          <a href="https://panel.gorollpartners.com/#/registration" className="menu__btn">
             {t("becomePartner")}
           </a>
           <div className="lang">

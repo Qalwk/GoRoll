@@ -60,7 +60,7 @@ const Partners = () => {
         </div>
       </div>
 
-      <a href="#" className="promo__btn partners__btn">
+      <a href="https://panel.gorollpartners.com/#/registration" className="promo__btn partners__btn">
         {t("becomePartner")}
       </a>
     </div>

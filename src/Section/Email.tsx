@@ -16,9 +16,9 @@ const Email = () => {
       <div className="contacts">
         <span>{t("contact")}</span>
         <div className="smm">
-          <a href="#!"><img src="f.svg" alt="fbook" /></a>
-          <a href="#!"><img src="in.svg" alt="insta" /></a>
-          <a href="#!"><img src="tg.svg" alt="telegram" /></a>
+          <a href="https://www.facebook.com/profile.php?id=61562051955953"><img src="f.svg" alt="fbook" /></a>
+          <a href="https://www.instagram.com/goroll.partners?igsh=MTc5aTFvd2ZrM3lmcw=="><img src="in.svg" alt="insta" /></a>
+          <a href="https://t.me/gorollpartners"><img src="tg.svg" alt="telegram" /></a>
         </div>
       </div>
     </div>
