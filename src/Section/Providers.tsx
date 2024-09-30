@@ -23,7 +23,7 @@ const Providers = () => {
             <p>Austria, Switzerland, Germany, Italy, Slovakia,</p>
             <p>Slovenia, Portugal, Denmark, Finland, Sweden, Norway, Poland</p>
           </div>
-          <a href="#" className="details">{t("providersDetails")}</a>
+          <a href="https://t.me/gorollpartners" className="details">{t("providersDetails")}</a>
           <a href="https://panel.gorollpartners.com/#/registration" className="promo__btn">{t("becomePartner")}</a>
         </div>
       </div>
